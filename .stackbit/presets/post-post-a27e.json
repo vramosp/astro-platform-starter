@@ -6,12 +6,6 @@
         {
             "label": "Post",
             "locale": null,
-            "metadata": {
-                "categories": [
-                    "test"
-                ],
-                "canDelete": true
-            },
             "data": {
                 "title": "The Charm of Corgis: Why They’re Everyone’s Favorite Dogs",
                 "slug": "the-charm-of-corgis-why-they-re-everyone-s-favorite-dogs",
