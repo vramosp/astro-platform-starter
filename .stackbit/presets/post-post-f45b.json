@@ -22,7 +22,7 @@
                 "image": {
                     "$$type": "customImage",
                     "image": {
-                        "$$ref": "image-d835e0b11dd77d42f428089af100db1428cfe750-1200x800-jpg",
+                        "$$ref": "2495a24c6bb2612947212a48f5ae2c8c97e75636-1024x1024.webp",
                         "$$type": "__asset_model"
                     },
                     "alt": "Corgi"
