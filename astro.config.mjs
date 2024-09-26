@@ -17,6 +17,11 @@ export default defineConfig({
             applyBaseStyles: false
         })
     ],
+    vite: {
+        server: {
+            hmr: { path: '/vite-hmr/' }
+        }
+    },
     server: {
         port: 3000
     },
