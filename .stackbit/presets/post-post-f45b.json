@@ -7,9 +7,6 @@
             "label": "Post",
             "locale": null,
             "metadata": {
-                "categories": [
-                    "Test"
-                ],
                 "canDelete": true
             },
             "data": {
@@ -30,7 +27,8 @@
                     },
                     "alt": "Corgi"
                 }
-            }
+            },
+            "thumbnail": "images/post-image.png"
         }
     ]
 }
