@@ -13,13 +13,7 @@ export default defineStackbitConfig({
     devCommand: 'node_modules/.bin/astro dev --port {PORT} --hostname 127.0.0.1',
     actions: [
         Actions.GenerateContentFromPreset({
-          label: 'Generate content with AI',
-          modelsConfig: [
-            {
-              name: 'post',
-            },
-          ],
-        }),
+          
       ],
     experimental: {
         ssg: {
